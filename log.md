@@ -6,4 +6,7 @@
 
 **Thoughts:** I really don't understand how I have to work with the voters in the Tideman algorithm. Might need a little bit more of practice.
 
+**EDIT:** FINALLY GOT IT WORKING, Preferences was quite difficult to understand but with the help of pen and paper everything works out
+
+
 **********
